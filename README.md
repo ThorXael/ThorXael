@@ -1,15 +1,6 @@
 <h1 align="center">Hey, I'm ThorXael ⚡</h1>
 <h3 align="center">C++ enjoyer | Low-level explorer | Offensive cyber tinkerer</h3>
 
----
-
-<div align="Center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thorxael&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thorxael&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" />
-</div>
-
----
-
 ### 🧠 Core Skills
 - C++ / C / Python / Assembly  
 - Reverse engineering (Ghidra, static/dynamic analysis)  
