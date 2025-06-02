@@ -10,8 +10,7 @@
 ---
 
 ### 🔒 Projects?
-> Most of my work is private.  
-> I build tools — not apps.  
+> Most of my work is private.   
 > Code speaks louder than releases.
 
 ---
